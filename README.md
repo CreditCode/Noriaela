@@ -1,6 +1,6 @@
 # Counter Strike Global Offensive Skin Changer Mac
 
-## Since Tiney is claiming he made this skinchanger when he didn't i've decided to stop updating this congratulations, you fucked yourself.
+## Im not the developer of this Skinchanger, im just updating it.
 
 ### Setup
 Requirements:
